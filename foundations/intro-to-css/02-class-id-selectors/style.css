@@ -1,6 +1,6 @@
 .odd-number {
     background-color: rgb(250, 160, 180);
-    font-family: Verdana, "DejaVu Sans", "Sans Serif";
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #blue-text {
